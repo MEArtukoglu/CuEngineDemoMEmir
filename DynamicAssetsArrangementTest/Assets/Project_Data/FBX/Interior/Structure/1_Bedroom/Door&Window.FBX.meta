@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 525893a7d4615704aa040f13a249f558
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Door_Frame01
+    100004: Door_Frame02
+    100006: Door_Frame03
+    100008: Door_Frame04
+    100010: Door_Lock01
+    100012: Door_Lock02
+    100014: Door_Lock03
+    100016: Door_Panel01
+    100018: Door_Panel02
+    100020: Door_Panel03
+    100022: Door_Panel04
+    100024: Lock_Handle04
+    100026: Window_Frame01
+    100028: Window_Frame02
+    100030: Window_Glass01
+    100032: Window_Glass02
+    400000: //RootNode
+    400002: Door_Frame01
+    400004: Door_Frame02
+    400006: Door_Frame03
+    400008: Door_Frame04
+    400010: Door_Lock01
+    400012: Door_Lock02
+    400014: Door_Lock03
+    400016: Door_Panel01
+    400018: Door_Panel02
+    400020: Door_Panel03
+    400022: Door_Panel04
+    400024: Lock_Handle04
+    400026: Window_Frame01
+    400028: Window_Frame02
+    400030: Window_Glass01
+    400032: Window_Glass02
+    2100000: 'Material #29'
+    2100002: 'Material #30'
+    2100004: 'Material #356'
+    2100006: 'Material #28'
+    2100008: cgaxis_door_07_1
+    2100010: cgaxis_door_handle_01_1
+    2100012: 'Material #220'
+    2100014: 'Material #40'
+    2100016: 'Material #55425'
+    2100018: 'Material #232'
+    2100020: Door_back_part
+    2100022: Door
+    2100024: Door_Wood
+    2100026: 'Material #55834'
+    2100028: Matel
+    2100030: Glass
+    2100032: Nikel
+    2100034: 'Material #262'
+    2100036: 'Material #263'
+    2300000: Door_Frame01
+    2300002: Door_Frame02
+    2300004: Door_Frame03
+    2300006: Door_Frame04
+    2300008: Door_Lock01
+    2300010: Door_Lock02
+    2300012: Door_Lock03
+    2300014: Door_Panel01
+    2300016: Door_Panel02
+    2300018: Door_Panel03
+    2300020: Door_Panel04
+    2300022: Lock_Handle04
+    2300024: Window_Frame01
+    2300026: Window_Frame02
+    2300028: Window_Glass01
+    2300030: Window_Glass02
+    3300000: Door_Frame01
+    3300002: Door_Frame02
+    3300004: Door_Frame03
+    3300006: Door_Frame04
+    3300008: Door_Lock01
+    3300010: Door_Lock02
+    3300012: Door_Lock03
+    3300014: Door_Panel01
+    3300016: Door_Panel02
+    3300018: Door_Panel03
+    3300020: Door_Panel04
+    3300022: Lock_Handle04
+    3300024: Window_Frame01
+    3300026: Window_Frame02
+    3300028: Window_Glass01
+    3300030: Window_Glass02
+    4300000: Window_Frame02
+    4300002: Window_Glass02
+    4300004: Door_Panel01
+    4300006: Door_Lock01
+    4300008: Door_Frame01
+    4300010: Door_Panel04
+    4300012: Door_Frame04
+    4300014: Lock_Handle04
+    4300016: Door_Lock02
+    4300018: Door_Frame02
+    4300020: Door_Panel02
+    4300022: Window_Frame01
+    4300024: Window_Glass01
+    4300026: Door_Frame03
+    4300028: Door_Lock03
+    4300030: Door_Panel03
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

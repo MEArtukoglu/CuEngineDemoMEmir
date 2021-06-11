@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 08d49d5b0f8f7394db896eed158c173c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bed_Base
+    100002: Bed_Blanket
+    100004: Bed_Matress
+    100006: Bed_Pillow00
+    100008: Bed_Pillow01
+    100010: Bed_Pillow02
+    100012: Bed_Pillow03
+    100014: Bed_Pillow04
+    100016: Bed_Pillow05
+    100018: Carpet
+    100020: Hanging_Lamp
+    100022: //RootNode
+    100024: Side_Table_01
+    100026: Side_Table_02
+    100028: Table_Lamp_Base
+    100030: Table_Lamp_Base_01
+    100032: Table_Lamp_Bulb
+    100034: Table_Lamp_Bulb_01
+    100036: Table_Lamp_Cap_01
+    100038: Table_Lamp_Cap_02
+    100040: Table_Lamp_Cap_03
+    100042: Table_Lamp_Cap_04
+    100044: Wall_Pannel
+    400000: Bed_Base
+    400002: Bed_Blanket
+    400004: Bed_Matress
+    400006: Bed_Pillow00
+    400008: Bed_Pillow01
+    400010: Bed_Pillow02
+    400012: Bed_Pillow03
+    400014: Bed_Pillow04
+    400016: Bed_Pillow05
+    400018: Carpet
+    400020: Hanging_Lamp
+    400022: //RootNode
+    400024: Side_Table_01
+    400026: Side_Table_02
+    400028: Table_Lamp_Base
+    400030: Table_Lamp_Base_01
+    400032: Table_Lamp_Bulb
+    400034: Table_Lamp_Bulb_01
+    400036: Table_Lamp_Cap_01
+    400038: Table_Lamp_Cap_02
+    400040: Table_Lamp_Cap_03
+    400042: Table_Lamp_Cap_04
+    400044: Wall_Pannel
+    2100000: 'Material #2146049181'
+    2100002: 'Material #2146049184'
+    2100004: 'Material #2146049186'
+    2100006: 'Material #2146049182'
+    2100008: 'Material #2146049154'
+    2100010: 'Material #2146049169'
+    2100012: 'Material #2146049131'
+    2100014: 'Material #2146049185'
+    2100016: 'Material #2143573177'
+    2100018: 'Material #2146049189'
+    2100020: 'Material #2143573149'
+    2100022: 'Material #2143573202'
+    2100024: 'Material #2146049191'
+    2100026: 'Material #2146049192'
+    2100028: 'Material #8'
+    2100030: 'Material #2146049113'
+    2100032: 'Material #2146049193'
+    2100034: Standardmaterial
+    2300000: Bed_Base
+    2300002: Bed_Blanket
+    2300004: Bed_Matress
+    2300006: Bed_Pillow00
+    2300008: Bed_Pillow01
+    2300010: Bed_Pillow02
+    2300012: Bed_Pillow03
+    2300014: Bed_Pillow04
+    2300016: Bed_Pillow05
+    2300018: Carpet
+    2300020: Hanging_Lamp
+    2300022: Side_Table_01
+    2300024: Side_Table_02
+    2300026: Table_Lamp_Base
+    2300028: Table_Lamp_Base_01
+    2300030: Table_Lamp_Bulb
+    2300032: Table_Lamp_Bulb_01
+    2300034: Table_Lamp_Cap_01
+    2300036: Table_Lamp_Cap_02
+    2300038: Table_Lamp_Cap_03
+    2300040: Table_Lamp_Cap_04
+    2300042: Wall_Pannel
+    3300000: Bed_Base
+    3300002: Bed_Blanket
+    3300004: Bed_Matress
+    3300006: Bed_Pillow00
+    3300008: Bed_Pillow01
+    3300010: Bed_Pillow02
+    3300012: Bed_Pillow03
+    3300014: Bed_Pillow04
+    3300016: Bed_Pillow05
+    3300018: Carpet
+    3300020: Hanging_Lamp
+    3300022: Side_Table_01
+    3300024: Side_Table_02
+    3300026: Table_Lamp_Base
+    3300028: Table_Lamp_Base_01
+    3300030: Table_Lamp_Bulb
+    3300032: Table_Lamp_Bulb_01
+    3300034: Table_Lamp_Cap_01
+    3300036: Table_Lamp_Cap_02
+    3300038: Table_Lamp_Cap_03
+    3300040: Table_Lamp_Cap_04
+    3300042: Wall_Pannel
+    4300000: Table_Lamp_Cap_02
+    4300002: Table_Lamp_Bulb
+    4300004: Bed_Base
+    4300006: Table_Lamp_Cap_03
+    4300008: Table_Lamp_Cap_04
+    4300010: Table_Lamp_Cap_01
+    4300012: Table_Lamp_Base
+    4300014: Side_Table_01
+    4300016: Table_Lamp_Base_01
+    4300018: Table_Lamp_Bulb_01
+    4300020: Carpet
+    4300022: Hanging_Lamp
+    4300024: Side_Table_02
+    4300026: Bed_Matress
+    4300028: Bed_Pillow02
+    4300030: Bed_Pillow03
+    4300032: Bed_Pillow01
+    4300034: Bed_Pillow05
+    4300036: Bed_Pillow00
+    4300038: Bed_Pillow04
+    4300040: Wall_Pannel
+    4300042: Bed_Blanket
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: ab8cf2c35d998c3489d1d453c4f9ca1e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cabinet_Platform_01
+    100002: Cabinet_Platform_02
+    100004: Kitchen_Cabinet_01
+    100006: Kitchen_Cabinet_01_Cap
+    100008: Kitchen_Cabinet_02
+    100010: Microwave
+    100012: Microwave_Button
+    100014: Microwave_Glass
+    100016: Oven_01
+    100018: Oven_02
+    100020: Oven_Button
+    100022: Oven_Glass
+    100024: //RootNode
+    100026: Refrigerator
+    100028: Sink
+    100030: Sink_Plane
+    100032: Stove
+    100034: Tap
+    400000: Cabinet_Platform_01
+    400002: Cabinet_Platform_02
+    400004: Kitchen_Cabinet_01
+    400006: Kitchen_Cabinet_01_Cap
+    400008: Kitchen_Cabinet_02
+    400010: Microwave
+    400012: Microwave_Button
+    400014: Microwave_Glass
+    400016: Oven_01
+    400018: Oven_02
+    400020: Oven_Button
+    400022: Oven_Glass
+    400024: //RootNode
+    400026: Refrigerator
+    400028: Sink
+    400030: Sink_Plane
+    400032: Stove
+    400034: Tap
+    2100000: 'Material #573'
+    2100002: 'Material #574'
+    2100004: 'Material #572'
+    2100006: 'Material #2146972386'
+    2100008: 'Material #2146972387'
+    2100010: 'Material #2146972410'
+    2100012: 'Material #2146972411'
+    2100014: 'Material #583'
+    2100016: 'Material #2'
+    2100018: 'Material #3'
+    2100020: 'Material #2145977759'
+    2100022: Standardmaterial
+    2100024: 'Material #2146019582'
+    2100026: 'Material #2146019545'
+    2100028: 'Material #2146019608'
+    2100030: 'Material #2146019557'
+    2100032: 'Material #2146019621'
+    2100034: 'Material #2146019634'
+    2100036: 'Material #2146019647'
+    2100038: 'Material #1'
+    2100040: 'Material #26'
+    2100042: 'Material #2143577174'
+    2100044: 'Material #2143577186'
+    2100046: 'Material #2143577199'
+    2100048: 'Material #2143577198'
+    2100050: 'Material #2143577354'
+    2100052: 'Material #2146020119'
+    2100054: 'Material #2145977774'
+    2100056: 'Material #2146002813'
+    2100058: 04 - Default
+    2100060: 03 - Default
+    2100062: 02 - Default
+    2100064: 'Material #184'
+    2100066: 'Material #2146972324'
+    2100068: 'Material #181'
+    2100070: 'Material #2146972434'
+    2300000: Cabinet_Platform_01
+    2300002: Cabinet_Platform_02
+    2300004: Kitchen_Cabinet_01
+    2300006: Kitchen_Cabinet_01_Cap
+    2300008: Kitchen_Cabinet_02
+    2300010: Microwave
+    2300012: Microwave_Button
+    2300014: Microwave_Glass
+    2300016: Oven_01
+    2300018: Oven_02
+    2300020: Oven_Button
+    2300022: Oven_Glass
+    2300024: Refrigerator
+    2300026: Sink
+    2300028: Sink_Plane
+    2300030: Stove
+    2300032: Tap
+    3300000: Cabinet_Platform_01
+    3300002: Cabinet_Platform_02
+    3300004: Kitchen_Cabinet_01
+    3300006: Kitchen_Cabinet_01_Cap
+    3300008: Kitchen_Cabinet_02
+    3300010: Microwave
+    3300012: Microwave_Button
+    3300014: Microwave_Glass
+    3300016: Oven_01
+    3300018: Oven_02
+    3300020: Oven_Button
+    3300022: Oven_Glass
+    3300024: Refrigerator
+    3300026: Sink
+    3300028: Sink_Plane
+    3300030: Stove
+    3300032: Tap
+    4300000: Sink_Plane
+    4300002: Tap
+    4300004: Sink
+    4300006: Kitchen_Cabinet_02
+    4300008: Cabinet_Platform_01
+    4300010: Cabinet_Platform_02
+    4300012: Kitchen_Cabinet_01_Cap
+    4300014: Microwave
+    4300016: Stove
+    4300018: Microwave_Button
+    4300020: Refrigerator
+    4300022: Oven_02
+    4300024: Oven_Button
+    4300026: Oven_Glass
+    4300028: Microwave_Glass
+    4300030: Oven_01
+    4300032: Kitchen_Cabinet_01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
